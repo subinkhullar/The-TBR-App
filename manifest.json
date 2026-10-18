@@ -1,0 +1,9 @@
+{
+  "name": "The TBR App by Subin Khullar",
+  "short_name": "TBR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#5B21B6",
+  "theme_color": "#5B21B6",
+  "icons": []
+}
