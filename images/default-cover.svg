@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="300"
+     height="450"
+     viewBox="0 0 300 450">
+
+  <defs>
+    <linearGradient id="bg"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="100%">
+
+      <stop offset="0%"
+            stop-color="#5B21B6"/>
+
+      <stop offset="100%"
+            stop-color="#8B5CF6"/>
+
+    </linearGradient>
+  </defs>
+
+  <rect width="300"
+        height="450"
+        fill="url(#bg)"/>
+
+  <rect x="15"
+        y="15"
+        width="270"
+        height="420"
+        rx="12"
+        fill="none"
+        stroke="white"
+        stroke-width="3"/>
+
+  <text x="150"
+        y="150"
+        text-anchor="middle"
+        font-size="80">
+
+    📚
+
+  </text>
+
+  <text x="150"
+        y="250"
+        text-anchor="middle"
+        fill="white"
+        font-size="24"
+        font-family="Arial"
+        font-weight="bold">
+
+    THE TBR APP
+
+  </text>
+
+  <text x="150"
+        y="290"
+        text-anchor="middle"
+        fill="white"
+        font-size="16"
+        font-family="Arial">
+
+    No Cover Available
+
+  </text>
+
+  <text x="150"
+        y="360"
+        text-anchor="middle"
+        fill="white"
+        font-size="14"
+        font-family="Arial">
+
+    by Subin Khullar
+
+  </text>
+
+</svg>
